@@ -47,14 +47,12 @@
 <br>
 <br>
 
-<div align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=ryuji-dev&show_icons=true&theme=tokyonight">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ryuji-dev&show_icons=true&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/ryuji-dev/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryuji-dev&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
-  </a>
-</div>
+<a href="https://github-readme-stats.vercel.app/api?username=ryuji-dev&show_icons=true&theme=tokyonight">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ryuji-dev&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/ryuji-dev/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryuji-dev&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+</a>
 
 <!--
 **ryuji-dev/ryuji-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
