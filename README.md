@@ -71,6 +71,6 @@
     <img width=420 height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ryuji-dev&show_icons=true&theme=tokyonight" />
   </a>
   <a href="https://github.com/ryuji-dev/convoychat">
-    <img width=340 height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryuji-dev&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+    <img width=320 height=176 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryuji-dev&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
   </a>
 </div>
