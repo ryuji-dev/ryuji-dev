@@ -51,9 +51,9 @@
     <img src="https://img.shields.io/badge/AWS%20CloudFront-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   </div>
   <br/>
-
+  
   <!-- Tools -->
-  <div><b>🛠 Tools 🛠</b></div>
+  <div><b>Tools</b><div>
   <div>
     <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />
     <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
